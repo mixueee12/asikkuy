@@ -806,10 +806,10 @@ Live Chat (24 Jam)
 </div>
 </div>
 <div class="top-links-item  grey" id="anonLogin">
-<a class="grey" href="ttps://kduyman.web.app/?apex=<?php echo $BRANDS ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
+<a class="grey" href="https://kduyman.web.app/?apex=<?php echo $BRANDS ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
 </div>
 <div class="top-links-item  grey" id="anonSignup">
-<a class="grey" href="ttps://kduyman.web.app/?apex=<?php echo $BRANDS ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
+<a class="grey" href="https://kduyman.web.app/?apex=<?php echo $BRANDS ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
 </div>
 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
 <span id="myAccountTrigger" class="grey"></span>
